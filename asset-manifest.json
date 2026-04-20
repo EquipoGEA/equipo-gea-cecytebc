@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f52e875.css",
-    "main.js": "/static/js/main.e632d77d.js",
-    "index.html": "/index.html"
+    "main.css": "/equipo-gea/static/css/main.0f52e875.css",
+    "main.js": "/equipo-gea/static/js/main.d9159bd3.js",
+    "index.html": "/equipo-gea/index.html"
   },
   "entrypoints": [
     "static/css/main.0f52e875.css",
-    "static/js/main.e632d77d.js"
+    "static/js/main.d9159bd3.js"
   ]
 }
